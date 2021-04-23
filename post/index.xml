@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Example Site</title>
-    <link>https://example.com/post/</link>
+    <link>http://betaller99.github.io/post/</link>
     <description>Recent content in Posts on Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Apr 2021 11:38:14 +0800</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Apr 2021 11:38:14 +0800</lastBuildDate><atom:link href="http://betaller99.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于引入iconfont失败出现小框框的问题</title>
-      <link>https://example.com/p/%E5%85%B3%E4%BA%8E%E5%BC%95%E5%85%A5iconfont%E5%A4%B1%E8%B4%A5%E5%87%BA%E7%8E%B0%E5%B0%8F%E6%A1%86%E6%A1%86%E7%9A%84%E9%97%AE%E9%A2%98/</link>
+      <link>http://betaller99.github.io/p/%E5%85%B3%E4%BA%8E%E5%BC%95%E5%85%A5iconfont%E5%A4%B1%E8%B4%A5%E5%87%BA%E7%8E%B0%E5%B0%8F%E6%A1%86%E6%A1%86%E7%9A%84%E9%97%AE%E9%A2%98/</link>
       <pubDate>Fri, 23 Apr 2021 11:38:14 +0800</pubDate>
       
-      <guid>https://example.com/p/%E5%85%B3%E4%BA%8E%E5%BC%95%E5%85%A5iconfont%E5%A4%B1%E8%B4%A5%E5%87%BA%E7%8E%B0%E5%B0%8F%E6%A1%86%E6%A1%86%E7%9A%84%E9%97%AE%E9%A2%98/</guid>
+      <guid>http://betaller99.github.io/p/%E5%85%B3%E4%BA%8E%E5%BC%95%E5%85%A5iconfont%E5%A4%B1%E8%B4%A5%E5%87%BA%E7%8E%B0%E5%B0%8F%E6%A1%86%E6%A1%86%E7%9A%84%E9%97%AE%E9%A2%98/</guid>
       <description>操作完成之后，就会发现网站变成了这样
 当我复原了文件之后，
 可以正常显示
 经过一番尝试，最终可以写成如下形式 </description>
+    </item>
+    
+    <item>
+      <title>FirstBlog</title>
+      <link>http://betaller99.github.io/p/firstblog/</link>
+      <pubDate>Sat, 10 Apr 2021 19:41:00 +0800</pubDate>
+      
+      <guid>http://betaller99.github.io/p/firstblog/</guid>
+      <description>这是使用hugo搭建的第一篇博客文章</description>
     </item>
     
   </channel>
