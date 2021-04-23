@@ -5,6 +5,24 @@
         <link>https://example.com/</link>
         <description>Recent content on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Fri, 23 Apr 2021 11:38:14 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于引入iconfont失败出现小框框的问题</title>
+        <link>https://example.com/p/%E5%85%B3%E4%BA%8E%E5%BC%95%E5%85%A5iconfont%E5%A4%B1%E8%B4%A5%E5%87%BA%E7%8E%B0%E5%B0%8F%E6%A1%86%E6%A1%86%E7%9A%84%E9%97%AE%E9%A2%98/</link>
+        <pubDate>Fri, 23 Apr 2021 11:38:14 +0800</pubDate>
+        
+        <guid>https://example.com/p/%E5%85%B3%E4%BA%8E%E5%BC%95%E5%85%A5iconfont%E5%A4%B1%E8%B4%A5%E5%87%BA%E7%8E%B0%E5%B0%8F%E6%A1%86%E6%A1%86%E7%9A%84%E9%97%AE%E9%A2%98/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://images.cnblogs.com/cnblogs_com/beTaller/1962445/o_210416080326deleteCode.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;操作完成之后，就会发现网站变成了这样&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;当我复原了文件之后，&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://img2020.cnblogs.com/blog/2281887/202104/2281887-20210416160843301-1558477488.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;可以正常显示&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://img2020.cnblogs.com/blog/2281887/202104/2281887-20210416160704195-836759580.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;经过一番尝试最终可以写成如下形式&#34;&gt;经过一番尝试，最终可以写成如下形式&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://img2020.cnblogs.com/blog/2281887/202104/2281887-20210416162835345-1755904377.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        
     </channel>
 </rss>
